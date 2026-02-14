@@ -61,7 +61,6 @@ O contador `contCadastro` controla a próxima posição livre no array.
 
 ## 👨‍💻 Autor
 João Douglas Silva Rodrigues
-
-www.linkedin.com/in/joãodougl4s 
+Linkedin: www.linkedin.com/in/joãodougl4s 
 
 Desenvolvido como prática de lógica de programação em Java.
